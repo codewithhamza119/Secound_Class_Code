@@ -1,0 +1,25 @@
+Functions with All Types of Arguments in Python
+
+Python me functions ko bohot flexible tarike se define kiya ja sakte hain Aap different types of arguments ka use kar sakte hain jese positional arguments keyword arguments default arguments aur variable-length arguments Yeh sab arguments apne function ko zyada flexible banane me madad karte hain.
+
+
+
+Types of Arguments in Python Functions:
+
+1. Positional Arguments
+
+2. Keyword Arguments
+
+3. Default Arguments
+
+4. Variable-Length Arguments:
+
+             Arbitrary Positional Arguments (VarPosArgs)
+
+                        Arbitrary Keyword Arguments (VarKwargs)
+
+
+
+                        
+
+
