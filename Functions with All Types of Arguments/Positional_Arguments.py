@@ -1,4 +1,4 @@
-# Positional arguments wo arguments hote hain jo function me specific position pe pass kiye jate hain Jab ap function call karte ho to values ko exact order me pass karna parta hai.
+# Positional arguments ya regular arguments wo arguments hote hain jo function me specific position pe pass kiye jate hain Jab ap function call karte ho to values ko exact order me pass karna parta hai.
 
 
 def greet(name, age):
