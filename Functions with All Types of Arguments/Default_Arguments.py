@@ -9,4 +9,4 @@ def greet(name, age=18):
 greet("Hamza")  # Output: Hello Hamza, you are 18 years old.
 
 # Argument specify karte hue
-greet("Areeba", 22)  # Output: Hello Areeba, you are 22 years old.
+greet("Sara", 19)  # Output: Hello Sara, you are 19 years old.
