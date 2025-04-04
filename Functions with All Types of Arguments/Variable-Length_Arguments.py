@@ -7,10 +7,10 @@ def greet(*names):
         print(f"Hello {name}!")
 
 # Multiple arguments pass karte hain
-greet("Hamza", "Areeba", "Hamza Swati")  
+greet("Hamza", "Sara", "Hamza Swati")  
 # Output: 
 # Hello Hamza!
-# Hello Areeba!
+# Hello Sara!
 # Hello Hamza Swati!
 
 
@@ -30,3 +30,4 @@ show_info(name="Hamza", age=25, city="Karachi")
 # name: Hamza
 # age: 25
 # city: Karachi
+
