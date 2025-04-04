@@ -15,6 +15,7 @@
 
 def modify_value(x):
     x = 10  # Value change karte hai
+    print(f"\nIn Function: {x}\n")
 
 # Function me integer pass karte hai
 num = 5
@@ -29,7 +30,10 @@ print("After Function:", num)  # `num` ki value change nahi hogi
 # 2. Pass by Reference (Mutable Object)
 
 def modify_list(lst):
+    print(f"\nBefore Modification in fucntion: {lst}")
     lst.append(4)  # List me element add karte he
+    print(f"After Modification in fucntion: {lst}\n")
+
 
 # Function me list pass karte he
 my_list = [1, 2, 3]
@@ -40,6 +44,9 @@ print("After Function:", my_list)  # `my_list` me changes reflect honge
 
 # Explanation:
 # Yaha pe my_list (list) pass ki hai Lists mutable hote he is liye function ke andar original list me changes reflect ho gaye
+
+
+
 
 
 
